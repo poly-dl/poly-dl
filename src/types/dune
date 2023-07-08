@@ -1,0 +1,4 @@
+(library
+ (name types)
+ (libraries utils cduce-types cduce.lib.core unix pomap)
+ (modules (:standard)))
